@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Index</title>
+  Zombie Zurvival Inc.
+  <link rel="stylesheet" href="main.css">
+</head>
+<style>
+</style>
+</head>
+<body>
+
+<header>The Times & Then Some</header>
+<nav>How to survive The Apocalypse</nav>
+<h2>Welcome To Zombie Zurvival 101, we will go over some key topics.</h2>
+<h4>Please be sure to take notes.</h4>
+<footer>Now Pay Attention You Might Not Be Able To Read this again</footer>
+<p>
+
+    <img id="memeImage" src="zombie.jpeg">
+
+</p>
+</body>
+</html>
